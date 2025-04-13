@@ -160,17 +160,19 @@ body {
   margin-top: 10%;
   margin-left: 47.3%;
   filter: blur(10px);
+  overflow: hidden;
 }
 .background2 {
     filter: blur(10px);
     position: absolute;
     top: 570%;
+    overflow: hidden;
   }
   .background3 {
     filter: blur(10px);
     position: absolute;
     top: 300%;
-    left: -15%;
+    left: -2%;
   }
 
     .poster {
@@ -178,7 +180,7 @@ body {
         display: flex;
         gap: 35%;
         left: 10%;
-        top: 665%;
+        top: 675%;
     }
 
       .topphim {
@@ -193,7 +195,7 @@ body {
       margin-left: 3%;
       display: flex;
       gap: 400px;
-      top: 665%;
+      top: 670%;
       }
   .tieude1 {
     top: 120px;
